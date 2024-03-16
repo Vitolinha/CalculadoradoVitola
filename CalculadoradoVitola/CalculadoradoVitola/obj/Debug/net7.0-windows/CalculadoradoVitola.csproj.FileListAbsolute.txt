@@ -1,0 +1,16 @@
+C:\Users\aluno.UNIPSOR2\Source\ReposdoVitola\CalculadoradoVitola\CalculadoradoVitola\bin\Debug\net7.0-windows\CalculadoradoVitola.exe
+C:\Users\aluno.UNIPSOR2\Source\ReposdoVitola\CalculadoradoVitola\CalculadoradoVitola\bin\Debug\net7.0-windows\CalculadoradoVitola.deps.json
+C:\Users\aluno.UNIPSOR2\Source\ReposdoVitola\CalculadoradoVitola\CalculadoradoVitola\bin\Debug\net7.0-windows\CalculadoradoVitola.runtimeconfig.json
+C:\Users\aluno.UNIPSOR2\Source\ReposdoVitola\CalculadoradoVitola\CalculadoradoVitola\bin\Debug\net7.0-windows\CalculadoradoVitola.dll
+C:\Users\aluno.UNIPSOR2\Source\ReposdoVitola\CalculadoradoVitola\CalculadoradoVitola\bin\Debug\net7.0-windows\CalculadoradoVitola.pdb
+C:\Users\aluno.UNIPSOR2\Source\ReposdoVitola\CalculadoradoVitola\CalculadoradoVitola\obj\Debug\net7.0-windows\CalculadoradoVitola.Form1.resources
+C:\Users\aluno.UNIPSOR2\Source\ReposdoVitola\CalculadoradoVitola\CalculadoradoVitola\obj\Debug\net7.0-windows\CalculadoradoVitola.csproj.GenerateResource.cache
+C:\Users\aluno.UNIPSOR2\Source\ReposdoVitola\CalculadoradoVitola\CalculadoradoVitola\obj\Debug\net7.0-windows\CalculadoradoVitola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.UNIPSOR2\Source\ReposdoVitola\CalculadoradoVitola\CalculadoradoVitola\obj\Debug\net7.0-windows\CalculadoradoVitola.AssemblyInfoInputs.cache
+C:\Users\aluno.UNIPSOR2\Source\ReposdoVitola\CalculadoradoVitola\CalculadoradoVitola\obj\Debug\net7.0-windows\CalculadoradoVitola.AssemblyInfo.cs
+C:\Users\aluno.UNIPSOR2\Source\ReposdoVitola\CalculadoradoVitola\CalculadoradoVitola\obj\Debug\net7.0-windows\CalculadoradoVitola.csproj.CoreCompileInputs.cache
+C:\Users\aluno.UNIPSOR2\Source\ReposdoVitola\CalculadoradoVitola\CalculadoradoVitola\obj\Debug\net7.0-windows\CalculadoradoVitola.dll
+C:\Users\aluno.UNIPSOR2\Source\ReposdoVitola\CalculadoradoVitola\CalculadoradoVitola\obj\Debug\net7.0-windows\refint\CalculadoradoVitola.dll
+C:\Users\aluno.UNIPSOR2\Source\ReposdoVitola\CalculadoradoVitola\CalculadoradoVitola\obj\Debug\net7.0-windows\CalculadoradoVitola.pdb
+C:\Users\aluno.UNIPSOR2\Source\ReposdoVitola\CalculadoradoVitola\CalculadoradoVitola\obj\Debug\net7.0-windows\CalculadoradoVitola.genruntimeconfig.cache
+C:\Users\aluno.UNIPSOR2\Source\ReposdoVitola\CalculadoradoVitola\CalculadoradoVitola\obj\Debug\net7.0-windows\ref\CalculadoradoVitola.dll
